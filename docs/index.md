@@ -63,7 +63,7 @@ effective technical expertise.
 
 ## Certifications
 
-`2019-11`
+`2019-2021`
 
 -  Security Clearance
 
